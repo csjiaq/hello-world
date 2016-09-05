@@ -2,3 +2,5 @@
 Just a simple sample to show how to use github
 
 make some changes!!!
+
+edited in my Thinkpad ~,~
